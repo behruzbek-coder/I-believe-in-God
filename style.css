@@ -1,0 +1,68 @@
+.container{
+        width: 1149px;
+        margin: 0 auto;
+}
+.behruzbek_top{
+        width: 600px;
+        text-align: center;
+        margin: 0 auto;
+        padding: 33px 77px;
+
+}
+.behruzbek_top h6{
+        color: #A5C926;
+}
+.behruzbek_top h2{
+        font-family: sans-serif;
+}
+.behruzbek_btn{
+        padding: 12px 29px;
+        border: none;
+        border-radius: 24px;
+        background: #A5C926;
+        color: white;
+
+}
+.behruzbek_main_left{
+        width: 500px;
+
+}
+.behruzbek_main_left  p{
+        padding-top: 10px;
+}
+.behruzbek_main_left h2{
+        width: 70px;
+        border-bottom: 1px solid #A5C926;
+}
+.behruzbek_main_left h1, p, .behruzbek_btn{
+        padding-bottom:20px ;
+}
+.behruzbek_main_list{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-family: sans-serif;
+
+}
+.behruzbek_sent{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-family: sans-serif;
+
+}
+.behruzbek_right input{
+        outline: none;
+}
+.behruzbek_right{
+        align-items: center;
+}
+.behruzbek_sent{
+        border: 0.5px solid rgba(0, 0, 0, 0.252);
+        border-radius: 10px ;
+}
+.behruzbek_ora{
+        transform: translateY(-70px);
+        transform:translateX(-150px) ;
+        padding-left: 100px;
+}
